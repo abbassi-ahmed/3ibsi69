@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ABBASSI Ahmed</h1>
-<h3 align="center">A passionate Full stuck developer from Tunisia</h3>
+<h3 align="center">A passionate Full stuck web-developer from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3ibsi69&label=Profile%20views&color=0e75b6&style=flat" alt="3ibsi69" /> </p>
 
