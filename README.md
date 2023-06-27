@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Back-end web development**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-abbassi.netlify.app/](https://portfolio-abbassi.netlify.app/)
+- 👨‍💻 All of my projects are available at <br/> [https://portfolio-abbassi.netlify.app/](https://portfolio-abbassi.netlify.app/)
 
 - 📫 How to reach me **abbassi2002ahmed.4@gmail.com**
 
