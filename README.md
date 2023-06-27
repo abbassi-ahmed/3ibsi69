@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3ibsi69&label=Profile%20views&color=0e75b6&style=flat" alt="3ibsi69" /> </p>
 
+  <img align="right" src="https://media2.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47u4zjm58gv80eg8k2gk67b4an7ncgoov8itk1vha5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt=""  width="400px"/>
+
+
 - 🌱 I’m currently learning **Back-end web development**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-abbassi.netlify.app/](https://portfolio-abbassi.netlify.app/)
