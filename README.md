@@ -3,13 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3ibsi69&label=Profile%20views&color=0e75b6&style=flat" alt="3ibsi69" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3ibsi69" alt="3ibsi69" /></a> </p>
+
 - 🌱 I’m currently learning **Back-end web development**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-abbassi.netlify.app/](https://portfolio-abbassi.netlify.app/)
 
 - 📫 How to reach me **abbassi2002ahmed.4@gmail.com**
 
-- ⚡ Fun fact **I like potatos**
+- ⚡ Fun fact **I like potatos** <img src="https://content.cdn.viber.com/stickers/144/140300/00140300.png" alt="" width="35px" heigth="35px" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
