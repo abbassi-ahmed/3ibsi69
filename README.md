@@ -38,3 +38,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3ibsi69&show_icons=true&theme=dark&title_color=fa0000&locale=en&layout=compact" alt="3ibsi69" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3ibsi69&show_icons=true&theme=dark&locale=en" alt="3ibsi69" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3ibsi69&theme=dark" alt="3ibsi69" /></p>
