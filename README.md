@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning **Back-end web development**
 
-- 👨‍💻 All of my projects are available at <br/> [https://portfolio-abbassi.netlify.app/](https://portfolio-abbassi.netlify.app/)
+- 🖥 Check out my  <a href="https://portfolio-abbassi.netlify.app/" target="_blank"> portfolio_website </a>
 
-- 📫 How to reach me **abbassi2002ahmed.4@gmail.com**
+- 📫 How to reach me **abbassi2002ahmed.4@gmail.com*
 
 - ⚡ Fun fact **I like potatos**
 
