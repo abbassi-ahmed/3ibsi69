@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm ABBASSI Ahmed</h1>
-<h3 align="center">A passionate Full stuck web-developer from Tunisia</h3>
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+<h1 align="center">
+<a href="https://github.com/3ibsi69">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hey+👋+there%2C+I%27m+Ahmed;Web+Developer+💻;from+Tunisia+" alt="3ibsi69" /></a>
+<h1/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3ibsi69&label=Profile%20views&color=0e75b6&style=flat" alt="3ibsi69" /> </p>
 
