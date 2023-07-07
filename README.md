@@ -36,11 +36,12 @@
 
 <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3ibsi69&show_icons=true&theme=dark&title_color=fa0000&locale=en&layout=compact" alt="3ibsi69" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3ibsi69&show_icons=true&theme=dark&locale=en" alt="3ibsi69" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3ibsi69&theme=dark" alt="3ibsi69" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=3ibsi69&show_icons=true&theme=dark&locale=en" alt="3ibsi69" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3ibsi69&theme=dark" alt="3ibsi69" /></p>
+<a href="https://github.com/rayen-creator" align="left">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ibsi69&langs_count=10&title_color=fa0000&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+   </a>
 
 ## :mag_right: Find me on
 <div align="center">
