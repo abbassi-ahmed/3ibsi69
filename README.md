@@ -16,7 +16,7 @@
 
 - 🖥 Check out my  <a href="https://portfolio-abbassi.netlify.app/" target="_blank"> portfolio_website </a>
 
-- 📫 How to reach me **abbassi2002ahmed.4@gmail.com*
+- 📫 How to reach me *abbassi2002ahmed.4@gmail.com*
 
 - ⚡ Fun fact **I like potatos**
 
