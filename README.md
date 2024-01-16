@@ -12,7 +12,7 @@
 <br/>
   <img align="right" src="https://media2.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47u4zjm58gv80eg8k2gk67b4an7ncgoov8itk1vha5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt=""  width="400px"/>
 
-- 🌱 I’m currently learning **Back-end web development**
+- 🌱 I’m currently learning **NEXTJS & NESTJS**
 
 - 🖥 Check out my  <a href="https://portfolio-abbassi.netlify.app/" target="_blank"> portfolio_website </a>
 
