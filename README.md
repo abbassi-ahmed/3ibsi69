@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3ibsi69&label=Profile%20views&color=0e75b6&style=flat" alt="3ibsi69" /> </p>
+
 
 # 💫 About Me:
 🌱 I’m currently learning NEXTJS & NESTJS<br><br>📫 How to reach me abbassi2002ahmed.4@gmail.com<br><br>⚡ Fun fact I like potatos<br><br>
