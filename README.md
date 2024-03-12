@@ -8,58 +8,32 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3ibsi69&label=Profile%20views&color=0e75b6&style=flat" alt="3ibsi69" /> </p>
 
- ## ✋ About Me :
-<br/>
-  <img align="right" src="https://media2.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47u4zjm58gv80eg8k2gk67b4an7ncgoov8itk1vha5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt=""  width="400px"/>
-
-- 🌱 I’m currently learning **NEXTJS & NESTJS**
-
-- 🖥 Check out my  <a href="https://portfolio-abbassi.netlify.app/" target="_blank"> portfolio_website </a>
-
-- 📫 How to reach me *abbassi2002ahmed.4@gmail.com*
-
-- ⚡ Fun fact **I like potatos**
-
-<br/>
-<br/>
-<br/>
+# 💫 About Me:
+🌱 I’m currently learning NEXTJS & NESTJS<br><br>📫 How to reach me abbassi2002ahmed.4@gmail.com<br><br>⚡ Fun fact I like potatos<br><br>
 
 
-## 🚀 Languages and Tools
-<br/>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/3ibsi69) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abbassi.ahmed.2002) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abbassiahmed69) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-abbassi-/) 
 
-<p align="left">
-  <a href="https://skills.thijs.gg" align="center">
-    <img src="https://skills.thijs.gg/icons?i=js,html,css,bash,photoshop,php,postman,react,sass,tailwindcss,express,git,linux,mongodb,nodejs,mysql" alt="My Skills">
-  </a>
-</p>
-</div>
+# 💻 Tech Stack:
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=3ibsi69&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=3ibsi69&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=3ibsi69&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## :chart_with_upwards_trend: My GitHub Stats
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3ibsi69&theme=dark" alt="3ibsi69" width="500px" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=3ibsi69&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-## :mag_right: Find me on
-<br/>
-<div align="center">
-<a href="mailto:abbassi2002ahmed.4@gmail.com" target="_blank">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
-<a href="https://linkedin.com/in/ahmed-abbassi-" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-  
-<a href="https://twitter.com/3ibsi_69" target="_blank">
-   <img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
+---
+[![](https://visitcount.itsvg.in/api?id=3ibsi69&icon=5&color=0)](https://visitcount.itsvg.in)
 
- 
-<a href="https://instagram.com/abbassiahmed69" target="_blank">
-<img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
- 
-</div>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
