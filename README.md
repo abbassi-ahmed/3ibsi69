@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning NEXTJS & NESTJS<br><br>📫 How to reach me abbassi2002ahmed.4@gmail.com<br><br>⚡ Fun fact I like potatoes <br><br>
+📫 How to reach me abbassi2002ahmed.4@gmail.com<br><br>⚡ Fun fact I like potatoes <br><br>
 
 
 ## 🌐 Socials:
