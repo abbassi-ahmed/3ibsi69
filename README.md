@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-📫 How to reach me abbassi2002ahmed.4@gmail.com<br><br>⚡ Fun fact I like potatoes <br><br>
+📫 How to reach me a.abbassipro@gmail.com<br><br>⚡ Fun fact I like potatoes <br><br>
 
 
 ## 🌐 Socials:
